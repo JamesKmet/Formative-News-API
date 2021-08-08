@@ -1,0 +1,17 @@
+{
+  "name": "formativeone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^5.0.2",
+    "grunt": "^1.4.1",
+    "jQuery": "^1.7.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ya Bou James",
+  "license": "ISC"
+}
